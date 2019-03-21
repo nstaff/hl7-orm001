@@ -17,13 +17,13 @@
             "email": "nicholas.a.staffend@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "classmap": [
             "tests/TestCase.php"
         ],
         "psr-4": {
-            "NStaff\\HL7\\": "src/"
+            "NStaff\\HL7\\": "src/" 
         }
     },
     "autoload-dev": {
