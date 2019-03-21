@@ -1,5 +1,5 @@
 {
-    "name": "nstaff/hl7-orc",
+    "name": "nstaff/hl7-orm001",
     "description": "Extension of aranyasen/hl7 to support easier relationships between OBX and ORC segments in an ORU message",
     "type": "library",
     "require": {
