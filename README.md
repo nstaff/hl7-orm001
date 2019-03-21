@@ -6,7 +6,7 @@ the relationship between OBX and OBR segments by giving them a concrete parent/c
 ## Installation
 
 ```bash
-composer require nstaff/hl7-oru
+composer require nstaff/hl7-orm001
 ```
 
 ## Usage
