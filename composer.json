@@ -4,8 +4,7 @@
     "type": "library",
     "require": {
         "php": ">=7.1",
-        "ext-mbstring": "*",
-        "aranyasen/hl7": "^0.1.0@dev"
+        "aranyasen/hl7": "^1.4"
     },
     "require-dev": {
         "phpunit/phpunit": "^6.4"
@@ -23,7 +22,7 @@
             "tests/TestCase.php"
         ],
         "psr-4": {
-            "NStaff\\HL7\\": "src/" 
+            "NStaff\\HL7\\": "src/"
         }
     },
     "autoload-dev": {
